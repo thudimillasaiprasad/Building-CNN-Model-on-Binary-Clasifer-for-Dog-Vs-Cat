@@ -1,0 +1,2 @@
+# Building-CNN-Model-on-Binary-Clasifer-for-Dog-Vs-Cat
+From the above sentences we can conclude that we prediction the features from the given images by using convolution layers and making the images size to small by apply max pool layers to con2v in between with activation function making the max correct data and flattened and passing through the fully connected layer and dense layers and with the (activation function “sigma”) where it predicts values from 0 to 1 where 0=cat or 1 = dog.
